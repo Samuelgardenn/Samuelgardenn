@@ -3,8 +3,8 @@
 
 
 - 🔭 Hoje eu trabalho com o Front-end 
-- 🌱 estudando TypeScript 
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando TypeScript
+
 
 <picture>
   <source
